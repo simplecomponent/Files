@@ -1,6 +1,7 @@
 # 基于CTMediator组件化
 ## 流程
 **我在github上新开了一个组织（organization），在组织内上传我的各个组件。**
+<<<<<<< HEAD
 ### 一  准备工作
 **1.1、**创建一个 `MainProject`
 ![img](https://raw.githubusercontent.com/simplecomponent/Files/master/images/documentImg/ios/%E7%BB%84%E4%BB%B6%E5%8C%96/jietu1.png)
@@ -9,6 +10,10 @@
 **1.2、**将`ConfigPrivatePod的template文件夹下Podfile中source ‘https://github.com/ModulizationDemo/PrivatePods.git'`改成前面你自己的私有Pod源仓库的repo地址
 **1.3、**将`ConfigPrivatePod`的`template`文件夹下`upload.sh`中`PrivatePods`改成前面你自己的私有Pod源仓库的名字
 
+=======
+- 首先创建一个 `MainProject`
+> ![img](https://raw.githubusercontent.com/simplecomponent/Files/master/images/documentImg/ios/%E7%BB%84%E4%BB%B6%E5%8C%96/jietu1.png)
+>>>>>>> 494be9726ac5401e05de18d998e343d1636a3e98
 
 
 
